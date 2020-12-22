@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StringBuffer_demo/StringBuffer_demo.iml" filepath="$PROJECT_DIR$/../StringBuffer_demo/StringBuffer_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String_demo/String_demo.iml" filepath="$PROJECT_DIR$/../String_demo/String_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collection_demo/collection_demo.iml" filepath="$PROJECT_DIR$/../collection_demo/collection_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception_demo.iml" filepath="$PROJECT_DIR$/exception_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map_demo/map_demo.iml" filepath="$PROJECT_DIR$/../map_demo/map_demo.iml" />
+    </modules>
+  </component>
+</project>
